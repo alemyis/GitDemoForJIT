@@ -7,6 +7,6 @@ public class Math
    
    public double Multiply(double a, double b)
    {
-   //todo
+      return a*b;
    }
 }
